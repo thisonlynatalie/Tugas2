@@ -21,16 +21,13 @@ Tugas ini memiliki satu bagian utama, yaitu:
 - **getWisata.php** → Mengambil data dari MySQL dan mengonversinya ke format JSON.  
 - **tampilWisata.php** → Mengambil data JSON dan menampilkannya dalam bentuk tabel HTML.  
 - **db_json.sql** → File database berisi tabel `wisata`.  
-- **assets/** → Folder yang berisi hasil screenshot.  
-  - `hasil-tabel.png` → Tampilan hasil akhir tabel di browser.
-
 ---
 
 ## 📸 Hasil Screenshot
 
 Berikut adalah hasil output saat dijalankan di browser:
 
-
+![Hasil Output](https://raw.githubusercontent.com/thusonlynatalie/Tugas2/main/images/screenshot1.png)
 
 ## ⚙️ Teknologi yang Digunakan
 
