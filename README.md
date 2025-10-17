@@ -27,7 +27,7 @@ Tugas ini memiliki satu bagian utama, yaitu:
 
 Berikut adalah hasil output saat dijalankan di browser:
 
-![Hasil Output](https://raw.githubusercontent.com/thusonlynatalie/Tugas2/main/images/screenshot1.png)
+![Hasil Output](https://raw.githubusercontent.com/thusonlynatalie/Tugas2/main/images/Screenshot1.png)
 
 ## ⚙️ Teknologi yang Digunakan
 
