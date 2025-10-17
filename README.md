@@ -68,7 +68,7 @@ Import file db_json.sql yang tersedia di repositori ini
 
 Akses URL berikut:
 
-http://localhost/Tugas2-MySQL-JSON/tampilWisata.php
+http://localhost/Tugas2/tampilWisata.php
 
 👨‍🎓 Informasi Mahasiswa
 
